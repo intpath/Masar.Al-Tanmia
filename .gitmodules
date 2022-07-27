@@ -1,0 +1,4 @@
+[submodule "intpath/sale_order_payment_status"]
+	path = intpath/sale_order_payment_status
+	url = git@github.com:intpath/sale_order_payment_status.git
+	branch = 15.0
