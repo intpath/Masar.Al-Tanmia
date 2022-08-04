@@ -2,3 +2,8 @@
 	path = intpath/sale_order_payment_status
 	url = git@github.com:intpath/sale_order_payment_status.git
 	branch = 15.0
+
+[submodule "intpath/esign_customization"]
+	path = intpath/esign_customization
+	url = git@github.com:Integrated-Path/esign_customization.git
+	branch = master
