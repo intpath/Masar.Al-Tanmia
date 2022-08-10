@@ -17,3 +17,8 @@
 	path = Integrated-Path/approval_editable_description
 	url = git@github.com:Integrated-Path/approval_editable_description.git
 	branch = 15-masar
+
+[submodule "Integrated-Path/approval_printed"]
+	path = Integrated-Path/approval_printed
+	url = git@github.com:Integrated-Path/approval_printed.git
+	branch = 15-masar
