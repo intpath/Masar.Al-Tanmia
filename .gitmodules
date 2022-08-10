@@ -7,3 +7,8 @@
 	path = intpath/esign_customization
 	url = git@github.com:Integrated-Path/esign_customization.git
 	branch = master
+
+[submodule "Integrated-Path/sequenced_approval"]
+	path = Integrated-Path/sequenced_approval
+	url = git@github.com:Integrated-Path/sequenced_approval.git
+	branch = 15-masar
