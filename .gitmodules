@@ -12,3 +12,8 @@
 	path = Integrated-Path/sequenced_approval
 	url = git@github.com:Integrated-Path/sequenced_approval.git
 	branch = 15-masar
+
+[submodule "Integrated-Path/approval_editable_description"]
+	path = Integrated-Path/approval_editable_description
+	url = git@github.com:Integrated-Path/approval_editable_description.git
+	branch = 15-masar
