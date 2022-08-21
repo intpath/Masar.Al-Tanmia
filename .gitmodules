@@ -3,11 +3,6 @@
 	url = git@github.com:intpath/sale_order_payment_status.git
 	branch = 15.0
 
-[submodule "intpath/esign_customization"]
-	path = intpath/esign_customization
-	url = git@github.com:Integrated-Path/esign_customization.git
-	branch = master
-
 [submodule "Integrated-Path/sequenced_approval"]
 	path = Integrated-Path/sequenced_approval
 	url = git@github.com:Integrated-Path/sequenced_approval.git
