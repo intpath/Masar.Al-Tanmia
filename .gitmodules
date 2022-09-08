@@ -22,3 +22,8 @@
 	path = Integrated-Path/documents_legal_fields
 	url = git@github.com:Integrated-Path/documents_legal_fields.git
 	branch = master
+
+[submodule "Integrated-Path/approval_request_restriction"]
+	path = Integrated-Path/approval_request_restriction
+	url = git@github.com:Integrated-Path/approval_request_restriction.git
+	branch = 15/masar
