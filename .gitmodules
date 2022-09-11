@@ -27,3 +27,8 @@
 	path = Integrated-Path/approval_request_restriction
 	url = git@github.com:Integrated-Path/approval_request_restriction.git
 	branch = 15/masar
+
+[submodule "Integrated-Path/approval_notification"]
+	path = Integrated-Path/approval_notification
+	url = git@github.com:Integrated-Path/approval_notification.git
+	branch = 15
