@@ -32,3 +32,8 @@
 	path = Integrated-Path/approval_notification
 	url = git@github.com:Integrated-Path/approval_notification.git
 	branch = 15
+
+[submodule "intpath/defult_account"]
+	path = intpath/defult_account
+	url = git@github.com:intpath/defult_account.git
+	branch = master
