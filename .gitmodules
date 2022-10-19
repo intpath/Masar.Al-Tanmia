@@ -37,3 +37,8 @@
 	path = intpath/defult_account
 	url = git@github.com:intpath/defult_account.git
 	branch = master
+
+[submodule "Integrated-Path/document_notification"]
+	path = Integrated-Path/document_notification
+	url = git@github.com:Integrated-Path/document_notification.git
+	branch = 15
