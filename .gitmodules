@@ -42,3 +42,8 @@
 	path = Integrated-Path/document_notification
 	url = git@github.com:Integrated-Path/document_notification.git
 	branch = 15
+
+[submodule "Integrated-Path/mass_cancel_sales_order"]
+	path = Integrated-Path/mass_cancel_sales_order
+	url = git@github.com:Integrated-Path/mass_cancel_sales_order.git
+	branch = master
