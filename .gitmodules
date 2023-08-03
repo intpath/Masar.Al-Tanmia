@@ -52,3 +52,8 @@
 	path = Integrated-Path/bi_print_journal_entries
 	url = git@github.com:Integrated-Path/bi_print_journal_entries.git
 	branch = master
+
+[submodule "Integrated-Path/approval_printed_add_signutare_name"]
+	path = Integrated-Path/approval_printed_add_signutare_name
+	url = git@github.com:Integrated-Path/approval_printed_add_signutare_name.git
+	branch = main
