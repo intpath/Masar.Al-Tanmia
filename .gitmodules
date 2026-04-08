@@ -57,3 +57,8 @@
 	path = Integrated-Path/approval_printed_add_signutare_name
 	url = git@github.com:Integrated-Path/approval_printed_add_signutare_name.git
 	branch = main
+
+[submodule "Integrated-Path/real_estate_management"]
+	path = Integrated-Path/real_estate_management
+	url = git@github.com:Integrated-Path/real_estate_management.git
+	branch = master
